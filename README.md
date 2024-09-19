@@ -1,8 +1,8 @@
-## Hi there 👋
+<h1 align="center"> Hi there 👋, I'm Eduardo </h1>
 
 
 
-## 🤝 Connect with me 
+<h2 align="center"> 🤝 Connect with me </h2>
 
 <p align="center">
   <div align="center"  class="icons-social" style="margin-left: 10px;">
@@ -13,27 +13,22 @@
   </div>
 </p>
 
-## 🛠️ Skills
+<h2 align="center"> 🛠️ Skills </h2>
 
-<div align="center">
-  <p align="center">
-   <img src="https://skillicons.dev/icons?i=kotlin,java,js,ts,python,c&perline=6" />
+<div align="center"><p align="center">
+   <img src="https://skillicons.dev/icons?i=python,java,js,python,php,cs&perline=6" />
    <br/>
    <b>Programming Languages</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=spring,nodejs,nginx&perline=4" />
-   <br/>
-   <b>Backend Development</b>
-   <br/><br/>
-   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&perline=6" />
+   <img src="https://skillicons.dev/icons?i=html,css,bootstrap&perline=6" />
    <br/>
    <b>Frontend Development</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=docker,linux,bash,git,github,latex,md&perline=9" />
+   <img src="https://skillicons.dev/icons?i=flask,ubuntu,git,github,latex,arduino&perline=9" />
    <br/>
    <b>Tools & Technologies</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=2" />
+   <img src="https://skillicons.dev/icons?i=mysql,postgres,redis&perline=10" />
    <br/>
    <b>Databases</b>
   </p> 
