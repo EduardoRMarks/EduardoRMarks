@@ -16,7 +16,7 @@
 <h2 align="center"> 🛠️ Skills </h2>
 
 <div align="center"><p align="center">
-   <img src="https://skillicons.dev/icons?i=python,java,js,python,php,cs&perline=6" />
+   <img src="https://skillicons.dev/icons?i=python,java,js,php,cs&perline=6" />
    <br/>
    <b>Programming Languages</b>
    <br/><br/>
